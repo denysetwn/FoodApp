@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Foodapp</string>
+    <string name="deskripsi_food">Deskripsi Makanan</string>
+    <string name="bahan">Bahan</string>
+    <string name="bahan_tv">Bahan_tv</string>
+    <string name="make">Cara_Membuat</string>
+    <string name="make_tv">Cara_Membuat_tv</string>
+    <string name="price">Harga</string>
+    <string name="price_tv">Harga_tv</string>
+    <string name="film_image">Film Image</string>
+    <string name="share">Share</string>
+    <string name="about_tv">About</string>
+    <string name="about">About</string>
+    <string name="profile_name">Deny Setiawan</string>
+    <string name="profile_email">denysetiawan.7.ds@gmail.com</string>
+</resources>
